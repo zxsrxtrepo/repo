@@ -1,0 +1,727 @@
+Package: com.amywhile.aemulotrial
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2351
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulo
+Filename: ./debs/com.amywhile.aemulotrial_v1.2.4_iphoneos-arm64.deb
+Size: 608146
+MD5sum: 07dc137fe92a07fbb7c070c8ae3921ba
+SHA1: b8005604cca5d1a925c0046b564ca088bcb04732
+SHA256: 9e0b76b86e317f4d215ef75ff5ab067f0c723fc8b136f4a4ca7532b675c0ade1
+Section: Tweaks
+Description: NFC Frickery
+Tag: compatible_min::ios13.0
+Author: Amy While <support@anamy.gay>
+Depiction: https://chariz.com/get/aemulo-trial
+Icon: https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
+Name: Aemulo (Trial)
+
+Package: com.antoine.senri
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Antoine <hanzikashi@gmail.com>
+Installed-Size: 1740
+Depends: firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17), mobilesubstrate
+Filename: ./debs/com.antoine.senri_1.1_iphoneos-arm64.deb
+Size: 506636
+MD5sum: f15dc372fb9351ed00597bf908c0fff5
+SHA1: 79d93112dfcbc6be6ecf39a7d93929753a40aff9
+SHA256: d442ca6f90d4d242cd13645b0237fd42ede804e23e49793967eddb722db2ba9b
+Section: Tweaks
+Description: Never lose your Notifications again.
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: Antoine <hanzikashi@gmail.com>
+Depiction: https://chariz.com/buy/senri
+Icon: https://img.chariz.cloud/icon/senri/icon@3x.png
+Name: Senri
+
+Package: com.dcproducts.iossecuritysuitebypass
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_v1.0.0_iphoneos-arm64.deb
+Size: 2508
+MD5sum: 3ef90ef91bca136ef5f92cb9f4706da4
+SHA1: 806a6ad9cea47a09c6c8dc92a2798ce619dd5f19
+SHA256: 78523cbbb67a11043be7238c2ca535f8e8835d7244096d8c8a729fca3139a825
+Section: Tweaks
+Description: A bypass for the iOSSecuritySuite Swift library.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+Name: iOSSecuritySuiteBypass
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
+
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_v7.10.0_iphoneos-arm64.deb
+Size: 1098586
+MD5sum: 6d52edf547d85ea5713e913d6293f3ba
+SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
+SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.ichitaso.hideserialnumber
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 416
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.hideserialnumber_v0.0.3_iphoneos-arm64.deb
+Size: 46990
+MD5sum: 8c5be46b993d4953221b28962d4e716e
+SHA1: fe817609b961d8bd1b1aa6258e53879acd175a48
+SHA256: 140e096f96a93ab038cff4ba6c7aa6f13182964fa0a476223c6e2eeea593b3fd
+Section: Tweaks
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/hidesn.html
+Dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber
+Sileodepiction: https://cydia.ichitaso.com/depiction/hidesn.json
+
+Package: com.icraze.uyoucrashfix
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.icraze.uyoucrashfix_1.0_iphoneos-arm64.deb
+Size: 2626
+MD5sum: 3e782b4a973a74301a8c09f8713d4d4f
+SHA1: 889fbce093919368971bbca033c670982deec33c
+SHA256: 6f8fddf3848761c24a07778442cc0ede479409cdc80683f8589f9f266ddffd7d
+Section: Tweaks
+Description: Fixes uYou crash bugs on YouTube v18.43.4
+Author: iCraze
+Name: uYouCrashFix
+
+Package: com.icraze.uyoucrashfix
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.icraze.uyoucrashfix_1.0_iphoneos-arm64-1.deb
+Size: 2626
+MD5sum: 3e782b4a973a74301a8c09f8713d4d4f
+SHA1: 889fbce093919368971bbca033c670982deec33c
+SHA256: 6f8fddf3848761c24a07778442cc0ede479409cdc80683f8589f9f266ddffd7d
+Section: Tweaks
+Description: Fixes uYou crash bugs on YouTube v18.43.4
+Author: iCraze
+Name: uYouCrashFix
+
+Package: com.joshua.volumeflex
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Joshua Wheeler
+Installed-Size: 544
+Depends: mobilesubstrate (>= 0.9.5000), libflex
+Filename: ./debs/com.joshua.volumeflex_v0.0.4_iphoneos-arm64.deb
+Size: 63528
+MD5sum: 3f5a06d7bd31aeda6e41b6ee3059dda4
+SHA1: 988ced325e92b463c934be9152e850bf6eb6f921
+SHA256: a43200600465f815aab0d31ee81459ba7ff5f1086e6311e90d5d1ef7ef27bb6a
+Section: Tweaks
+Description: The world dosen't need another FLEX loader but people with fat fingers do.
+Author: Joshua Wheeler
+Name: VolumeFLEX
+
+Package: com.joshua.volumeflex
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Joshua Wheeler
+Installed-Size: 544
+Depends: mobilesubstrate (>= 0.9.5000), libflex
+Filename: ./debs/com.joshua.volumeflex_0.0.4_iphoneos-arm64.deb
+Size: 63528
+MD5sum: 3f5a06d7bd31aeda6e41b6ee3059dda4
+SHA1: 988ced325e92b463c934be9152e850bf6eb6f921
+SHA256: a43200600465f815aab0d31ee81459ba7ff5f1086e6311e90d5d1ef7ef27bb6a
+Section: Tweaks
+Description: The world dosen't need another FLEX loader but people with fat fingers do.
+Author: Joshua Wheeler
+Name: VolumeFLEX
+
+Package: com.kdt.trollpad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: khanhduytran0
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.kdt.trollpad_1.0_iphoneos-arm64.deb
+Size: 2814
+MD5sum: 1a269209277e846889ed5cc26455212c
+SHA1: 579eee031aae0b6509d81c09a3486da8b153175d
+SHA256: 1e3242908617c021e7b40ee9d4e899168629bddcbf2d3be7d64002e57932c02d
+Section: Tweaks
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Author: khanhduytran0
+Name: TrollPad
+
+Package: com.miro.uyou
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31212
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs/com.miro.uyou_v3.0.2_iphoneos-arm64.deb
+Size: 10955906
+MD5sum: 443f5777c95d02d2a48fb828ccbff7bd
+SHA1: 7fd525875f3d00e5d7a3d372a1f7a4157ce24e7f
+SHA256: ca0d61c197aa859fb7c5a7cb073f46fbdf1a6e36b1e0be90d266ebb79640b6a9
+Section: Tweaks
+Description: The best tweak for the YouTube app
+Tag: purpose::extension, compatible_min::ios13
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Name: uYou
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: MrGcGamer
+Installed-Size: 296
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64.deb
+Size: 42992
+MD5sum: e98e7eede3cc05f081c54fbd19d3d429
+SHA1: 23c78ea1225f06de045f7e5e570a84703963e868
+SHA256: ad860c13412ded1618d96a4baaa73d6766bf1b738198f9360d9cccbb1a0ce1ad
+Section: Development
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
+Package: com.nahtedetihw.closeall
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 208
+Filename: ./debs/com.nahtedetihw.closeall_v1.0_iphoneos-arm64.deb
+Size: 21664
+MD5sum: 179dba4685fbf2353152f224b2d1c1e2
+SHA1: 3f0ceea6f80d5cc1aa963acbbc31bfb84b543396
+SHA256: 34dd91591f9b5d26892a65eb9b592760266a389f9393ded91f85ca981e25d2db
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Whited
+Name: CloseAll
+
+Package: com.nicho1asdev.bigsurcenter
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: nicho1asdev
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.nicho1asdev.bigsurcenter_1.4.4_iphoneos-arm64.deb
+Size: 876104
+MD5sum: 6629afd1fb893e8744b4b980766d4b04
+SHA1: bce205c5feefee5a496418694b6b180d066ad9d7
+SHA256: 371668cea36c291fc742f2a77f0df354ef3ffcad96b7a33cc17a52ee63308a2f
+Section: Tweaks
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the control center in MacOS Big Sur
+Author: nicho1asdev
+Name: BigSurCenter
+
+Package: com.nightwind.boldersreborn
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 5808
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad, com.lizynz.folderx.rootless, com.lizynz.folderx
+Filename: ./debs/com.nightwind.boldersreborn_1.1.2_iphoneos-arm64.deb
+Size: 4863450
+MD5sum: 59c911262de8191236c6edf7b6304b03
+SHA1: 82c68770ba9db66df05441148eb8166e2e7fb7bf
+SHA256: 29197ec32d01def3c2d7b57ef0049ae7eb9c92cbfa5ff3d261f01460f86a93d5
+Section: Tweaks
+Description: Bigger and bolder folders, remade!
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/boldersreborn
+Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
+Name: Bolders Reborn
+
+Package: com.nightwind.boldersreborn
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 5808
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad, com.lizynz.folderx.rootless, com.lizynz.folderx
+Filename: ./debs/com.nightwind.boldersreborn_v1.1.2_iphoneos-arm64.deb
+Size: 4863450
+MD5sum: 59c911262de8191236c6edf7b6304b03
+SHA1: 82c68770ba9db66df05441148eb8166e2e7fb7bf
+SHA256: 29197ec32d01def3c2d7b57ef0049ae7eb9c92cbfa5ff3d261f01460f86a93d5
+Section: Tweaks
+Description: Bigger and bolder folders, remade!
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/boldersreborn
+Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
+Name: Bolders Reborn
+
+Package: com.opa334.choicy
+Version: 1.4.10-3
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 814
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.opa334.choicy_v1.4.10-3_iphoneos-arm64.deb
+Size: 104666
+MD5sum: 122052b9958e1a49abefa6b3ef4cc0c4
+SHA1: 1b351f4f044fd39d9950e2a457bf4b6b622cc281
+SHA256: 81a692e0e0aa77b0df18fd6ef9538f374fc717b889f2bc7d864fd504a51ad5cb
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Name: Choicy
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.pantsthief.flexing
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 3020
+Pre-Depends: firmware (>= 8.0)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_v1.5.0_iphoneos-arm64.deb
+Size: 645232
+MD5sum: f3e37c92e61420d8084193a50b90009a
+SHA1: 83a2d32a752120feb1aeca66efce105568a1ca36
+SHA256: 11dd176fb8d16cec566730f730d328a46302f8b9b6251575f0fce584c12404e3
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.ryannair05.cylinder
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1123
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Filename: ./debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm64.deb
+Size: 237932
+MD5sum: e32bed6085483f48d81607faeef29d11
+SHA1: 0ce6964ccac1d69a2caf5773d47e6f958f667578
+SHA256: 2f63d9cbbf41607b0a01f17ebd924a9f32481cfe733112142cb61951e107ece6
+Section: Tweaks
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/cylinder-reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Name: Cylinder Reborn
+
+Package: com.shadow.h5ggapp.rootless
+Version: 7.9
+Architecture: iphoneos-arm64
+Maintainer: tuancc, Summit, Shadow-
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.shadow.h5ggapp.rootless_v7.9_iphoneos-arm64.deb
+Size: 2069400
+MD5sum: aee91582c41535ae93bebcb3d3528cbf
+SHA1: 3f169708d8d09fc273801b325552ab9bde1ed2f9
+SHA256: 89615d7e7c464c98aaac3cd33b19ad358324a7b9ab6760e930fce9866bf83730
+Section: System
+Priority: optional
+Homepage: https://apt.h5gg.app
+Description: H5GG跨进程iOS15专用悬浮版(该版本不支持iPad的原生分屏浮动, 如有需要可使用H5GG跨进程普通版), Credits: BawAppie and Akusio, Discord https://discord.gg/h5gg
+Author: tuancc, Summit, Shadow-
+Icon: https://apt.h5gg.app/CydiaIcon.png
+Name: H5GG跨进程悬浮版(iOS15)-Rootless
+
+Package: com.snail.killyourapps
+Version: 1.0.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, xyz.cypwn.snail
+Filename: ./debs/com.snail.killyourapps_v1.0.1k_iphoneos-arm64.deb
+Size: 202202
+MD5sum: 9860892cf4fd0c70b6116bb7fa08ac6f
+SHA1: 8456aab2553e553acd366429d2761e1993f8afb8
+SHA256: 10a2343c3a715774d7f20f7f0639099eefe84d07ead82cf1f11bc13d5009fc69
+Section: Tweaks
+Description: Kill Your Apps as you wish, keep your app switcher always clean with scheduled kills, immediate kills, and screen lock kills. Cracked by CBZ!
+Author: Snail
+Depiction: https://repo.cypwn.xyz/depiction/1938
+Icon: https://media.havoc.app/652b41d808173a61efae75df
+Name: KillYourApps
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1938
+
+Package: com.summit.h5ggapp.rootless
+Version: 7.9
+Architecture: iphoneos-arm64
+Maintainer: tuancc, Summit, Shadow-
+Installed-Size: 800
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.summit.h5ggapp.rootless_v7.9_iphoneos-arm64.deb
+Size: 2078376
+MD5sum: 52546e39b074200c5674b3d7a2f41870
+SHA1: 59e7e6f35c290843e65abc0c65bfd3986b07ef3e
+SHA256: a86702f1c146b9c443e67782370b1d71e3728dc56bb1c839cc4f4cf93bb2a14c
+Section: System
+Priority: optional
+Homepage: https://apt.h5gg.app
+Description: H5GG跨进程iOS15专用悬浮版(该版本不支持iPad的原生分屏浮动, 如有需要可使用H5GG跨进程普通版), Credits: BawAppie and Akusio, Discord https://discord.gg/h5gg
+Author: tuancc, Summit, Shadow-
+Icon: https://apt.h5gg.app/CydiaIcon.png
+Name: H5GG随机化跨进程悬浮版(iOS15)-Rootless
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.8.2-5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 9121
+Depends: firmware (>= 7.0), ldid
+Filename: ./debs/com.tigisoftware.appdatamanager_v1.8.2-5_iphoneos-arm64.deb
+Size: 2517320
+MD5sum: c21dd211678c92b797c45629cadb9f51
+SHA1: e68b83818605efa719084932753444283b971acb
+SHA256: d8ce1ed3d5ca7eea030e65221cc77ffce5a0bf2ae18690a84b02349ec1f0ab64
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Name: Apps Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 31822
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.tigisoftware.filza_v4.0.1-3_iphoneos-arm64.deb
+Size: 10216820
+MD5sum: 4812dc73e2ed0a0281b18e876d96edf1
+SHA1: 50f62b44b8a3804743ea9a136bf7542dfc07e43e
+SHA256: 918a39bd1cf0edefe1bb1a0fbb2253ad764a5633649a22c85ae3df7e33689586
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.zx02.frame.rootless
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: Zerui Chen
+Installed-Size: 4284
+Depends: mobilesubstrate,firmware (>= 13.9.9)
+Conflicts: com.zx02.frame.ios13,com.zx02.frame.ios14
+Filename: ./debs/com.zx02.frame.rootless_3.0.1_iphoneos-arm64.deb
+Size: 2338512
+MD5sum: 194929cc7b9f517e02243bc08c982c2f
+SHA1: 61d53417742a6d7c62868cf207f10a0771254265
+SHA256: ac667f23e41af57d2d69a2cc2efec592deaf4773aa0c6fb3c146fcebdbc795b2
+Section: Tweaks
+Description: Bring your iDevice to life with true video wallpapers.
+Author: Zerui Chen
+Name: Frame (Rootless iOS 14+)
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 612
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_v0.4.1_iphoneos-arm64.deb
+Size: 87524
+MD5sum: 66595be22085e081cefb0b5973741709
+SHA1: c215376c28f539abc739b1dff8bdc5a40f82cc54
+SHA256: 090eff7c142104c805d09825a8f04e0d7d3ba123cc95741964316ea6cca06390
+Section: System
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: vnodebypass
+
+Package: neofetch
+Version: 7.1.0+20220216.ccd5d9f
+Architecture: iphoneos-arm64
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 384
+Depends: bash (>= 5.0), awk
+Conflicts: com.matdev.neofetch-ios
+Replaces: com.matdev.neofetch-ios
+Filename: ./debs/neofetch_v7.1.0+20220216.ccd5d9f_iphoneos-arm64.deb
+Size: 91198
+MD5sum: d68e7331e3aabbdb7643357841da4de3
+SHA1: 54c2dfcba4f3aa6ff3691349dee66e1a0d20d582
+SHA256: dac67709f40a480bd7b7f4d07975a97e9054c1c6dd82fafa37731b67f33fe83d
+Section: Utilities
+Priority: optional
+Homepage: https://github.com/dylanaraps/neofetch
+Description: Shows System Information with Distribution Logo
+ Neoftech is a cross-platform and easy-to-use system information
+ command line script that collects your system information
+ and display it on the terminal next to an image, it could be your
+ distributions logo or any ascii art of your choice.
+Author: Dylan Araps <dylan.araps@gmail.com>
+
+Package: net.limneos.dynamicpeninsula-rootless
+Version: 0.6-19
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
+Filename: ./debs/net.limneos.dynamicpeninsula-rootless_v0.6-19_iphoneos-arm64.deb
+Size: 313776
+MD5sum: 4570dc1287f6a8bc3e534ba97b40f33b
+SHA1: 028261aa060ec3bc9fe8af7102ef8101b1e0cb11
+SHA256: ea5a4bae66aa7d2a2d460356977e2324141b8d5a1bc772369a30674167298741
+Section: Tweaks
+Description: Dynamic Island on your notch
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.dynamicpeninsula
+Mainlibmd5: 921b926fd501306429310a4e8659f913
+Name: DynamicPeninsula (rootless)
+
+Package: net.limneos.voicechangerx-rootless
+Version: 2.4-3
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.limneos.voicechangerx-rootless_v2.4-3_iphoneos-arm64.deb
+Size: 244546
+MD5sum: 479497ffafdf974b2b7fb3d6789bb490
+SHA1: e984b5ec1b7341bf0167af79b084e4e436382a9a
+SHA256: 495b3bf2cc174250e6b3a86df65764f16b2c3586cb9207cb1b1aeb55d48bb58e
+Section: Tweaks
+Description: Change your voice during a call!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Mainlibmd5: 8131809d9825837c841f8f54015f50b4
+Name: VoiceChanger XS (rootless) (iOS 11 to 16)
+
+Package: ru.rejail.dleasy
+Version: 2.14.3
+Architecture: iphoneos-arm64
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Installed-Size: 15520
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.dleasy_2.14.3_iphoneos-arm64.deb
+Size: 5528816
+MD5sum: 4b273407f0fac0b4e094ca95dcf488a2
+SHA1: 1593fafe26a7f38a56bec207f39a013ea11a050c
+SHA256: fe6402b2ca6a923ad32a88a3500ab2850cd751147adc73bebd515ed01665a0d1
+Section: Tweaks
+Description: Download/Share images & videos from social apps easily!
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+Name: DLEasy
+
+Package: xyz.cypwn.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.cypwn.appdata_v1.4.1_iphoneos-arm64.deb
+Size: 7401142
+MD5sum: f25bee2a33498684fa289e341c720464
+SHA1: 794ae15956bbe910db0bbfe294d828121848f1f5
+SHA256: f505086b977c850eb58c328a12e5523e07e9ae000cc34277d0f9be1fba04cd9d
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/appdata.png
+Name: AppData
+
+Package: xyz.cypwn.cardculator
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Installed-Size: 920
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
+Filename: ./debs/xyz.cypwn.cardculator_v2.1_iphoneos-arm64.deb
+Size: 164922
+MD5sum: 088874d06d3ec99c97a29d9e707a57a0
+SHA1: 8189b2414772f57783b6e7a0245dc0e4506904fb
+SHA256: 2904516633169377284a26cf712c75aefd916addfbd47f373c766a9e48336b0d
+Section: Tweaks
+Description: Calculator, but smaller
+Author: sourcelocation
+Name: Cardculator
+
+Package: xyz.cypwn.cracktool5
+Version: 5.0~beta0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/xyz.cypwn.cracktool5_v5.0~beta0_iphoneos-arm64.deb
+Size: 1319582
+MD5sum: fb8f991a7dd1037a7bbc4443d444dfe0
+SHA1: cf7b6ac45a10d4b607929c045cb492185810014b
+SHA256: b3fa86cd0ecc80ba59b3d89c0c198d6d5d326396408fd7ff35dff887be908fe9
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: Crack Tweaks on one click
+Author: julioverne
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/cracktool.png
+Name: CrackTool5 (iOS 15/16 rootless)
+
+Package: xyz.cypwn.cydown
+Version: 7.1.6
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Filename: ./debs/xyz.cypwn.cydown_v7.1.6_iphoneos-arm64.deb
+Size: 4295664
+MD5sum: 17f97c80ca7c6de4de9007f8f2d6c900
+SHA1: 7781ed07d3c0ab4f9fe01bd045b53a2b11619d6b
+SHA256: fba0c47976d2ebb94ba3e042f71c7bf6c9f9787ca078b9922be586aab979ad4e
+Section: Tweaks
+Description: Download tweaks for free
+Author: Julioverne & CyPwn
+Name: CyDown++
+
+Package: xyz.cypwn.eneko
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/xyz.cypwn.eneko_1.4_iphoneos-arm64.deb
+Size: 48776
+MD5sum: 637cd4d81145f279256fdb434fd98f4d
+SHA1: e43d69125e6fa1b8b160e4dbad3627ff3d55bea9
+SHA256: 8663d22b493031f3245b5c7aaa46b396726dc444600c31044623f35a4cbf04c3
+Section: Tweaks
+Description: Live wallpapers for iOS
+Author: Traurige <hello@traurige.dev>
+Name: Eneko
+
+Package: xyz.cypwn.icleanerprocrackrootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/xyz.cypwn.icleanerprocrackrootless_v1.1_iphoneos-arm64.deb
+Size: 7492
+MD5sum: 0f3af8f6a8605e05ae59401c7fb6b9b0
+SHA1: 0a41ab885b7665afd1c05e7020616a0d00047e53
+SHA256: 044f8877b7eb15503d36d1114ddb41750551417b05fefa10d2761b31443fbfc1
+Section: Tweaks
+Description: iCleaner Pro Crack
+Author: Anna
+Name: iCleaner Pro Crack (rootless)
+
+Package: xyz.cypwn.lastlook
+Version: 3.6.5
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: ./debs/xyz.cypwn.lastlook_3.6.5_iphoneos-arm64.deb
+Size: 500984
+MD5sum: 4b16fed4daab1bd1778d94c5de3b56be
+SHA1: 33b67fc3ca18222b91864cd8d64c70574412d909
+SHA256: 1668a8f62a4d5b55e25c991a44497ab93acab972e44f24eba243411327c9b660
+Section: Tweaks
+Description: An AOD tweak that feels stock, with endless possibilities!
+Author: AnthoPak
+Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
+Name: LastLook
+
+Package: xyz.cypwn.limneos
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/xyz.cypwn.limneos_v3.1_iphoneos-arm64.deb
+Size: 7840
+MD5sum: e2bbeae7d6afab932e1a0ec3c4ae3ba6
+SHA1: ca12e6ad51f6835d4c1de07075ea99a52298889e
+SHA256: e18d1b107ec7d802520f25a73e2d6a4505ffb48945d2fa2d4f6684113859688e
+Section: Tweaks
+Description: Crack for Limneos tweaks by CBZ. Compiled using NewABI
+Author: CBZ
+Name: Limneos Crack
+
+Package: xyz.cypwn.linebit
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Filename: ./debs/xyz.cypwn.linebit_1.0_iphoneos-arm64.deb
+Size: 11151672
+MD5sum: 9af783c63b67e37e30b692cd591e62e5
+SHA1: cf8c5bd01a979b5106e4ed1bf7687c158f7be079
+SHA256: 4127b6f6067bff24768647903561c89cefe5698815107e2f000ad4d83d477369
+Section: Themes
+Description: Linebit for iOS
+Author: Edzon Diaz
+Icon: https://media.havoc.app/65aff73099d547f1b5585a0c
+Name: Linebit
+
+Package: xyz.cypwn.stella
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Filename: ./debs/xyz.cypwn.stella_1.0.4_iphoneos-arm64.deb
+Size: 683608
+MD5sum: 5c7eaaaacc0ccc9488807bc5a37ed992
+SHA1: 5cd2d6a2fb910018e25f4a57293709a01011be05
+SHA256: e0d084928a23ee11163e6e9f71e9f1ce6d54855e0ab5ed473fb96a28e21b6f34
+Section: Tweaks
+Description: Let it snow on your device
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Name: Stella
+
